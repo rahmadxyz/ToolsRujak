@@ -17,49 +17,51 @@
 troll(){
     clear
     sleep 0.03
-    echo "         _ "
+    echo "           /\ "
     sleep 0.03
-    echo "        /_)  _.-===-._ "
+    echo "         /  ^  \ "
     sleep 0.03
-    echo "       /  .; '_-.'- .'.     _ "
+    echo "         |  Y   | "
     sleep 0.03
-    echo "  __ _/  /.'\ ._  '. , \   (_\ "
+    echo "         |  O   | "
     sleep 0.03
-    echo " /\_( \  |.'.-._'- .  '|     \ "
+    echo "         |  U   | "
     sleep 0.03
-    echo " |_)  /  |/'    ''--''\|     _\__ "
+    echo "         |  T   | "
     sleep 0.03
-    echo " \_)_|  /'  ._.   ._.  '\   / )(_\ "
+    echo "         |  U   | "
     sleep 0.03
-    echo " )/  (  \_      _      _/   \' (_| "
+    echo "         |  B   | "
     sleep 0.03
-    echo " /   /    \           /     _) (_/ "
+    echo "         |  E   | "
     sleep 0.03
-    echo " |   '',_ _'._'---'_.'_ _,.'    | \ "
+    echo "         |      | "
     sleep 0.03
-    echo " \    /  \ \  '''''  / / /     /   \ "
+    echo "         |  R   |\ "
     sleep 0.03
-    echo "  \_.'    \ \       / /  |   .' "
+    echo "         |  M   |  \ "
     sleep 0.03
-    echo "   '--.,   \ \     / /  _;-'' "
+    echo "         |  D   |    \ "
     sleep 0.03
-    echo "       '|   \ \   / /   | "
+    echo "         |      |      \ "
     sleep 0.03
-    echo "       .;----'''''''----;. "
+    echo "         |  M   |        \ "
     sleep 0.03
-    echo "      /(                 )\ "
+    echo "         |  R   |           \ "
     sleep 0.03
-    echo "      \_''-------------''_/ "
+    echo "         |  R   |              \ "
     sleep 0.03
-    echo "      | '';-----;-----;'' | "
+    echo "         |      |                \ "
     sleep 0.03
-    echo "      | / : \ / : \ / : \ | "
+    echo "         |      |                   \ "
     sleep 0.03
-    echo "      |V.','.V.','.V.','.V| "
+    echo "         |      |                     \ "
     sleep 0.03
-    echo "      \'./_\.;./_\.;./_\.'/ "
+    echo "         |      |                      | "
     sleep 0.03
-    echo "       ';..___________..;' "
+    echo "        ''''''''''                     | "
+    sleep 0.03
+     echo "        ' ' ' ' _____________________| "
     sleep 0.03
     echo " ============================="
     sleep 2
@@ -129,8 +131,8 @@ spam(){
                     CURL_RESPONSE=`curl -s -o /dev/null -w "%{http_code}" $target_do`
                     echo " Gunakan tools dengan bijak"
                     echo
-                    echo " Love u always "
-                    echo " -zLucifer"
+                    echo " Love Sayang :V "
+                    echo " -jackekids"
                     echo "======================================="
             else
                     echo "Kesalahan"
