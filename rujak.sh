@@ -17,9 +17,9 @@
 troll(){
     clear
     sleep 0.03
-    echo "           /\ "
+    echo "           / \ "
     sleep 0.03
-    echo "         /  ^  \ "
+    echo "         /  ^   \ "
     sleep 0.03
     echo "         |  Y   | "
     sleep 0.03
@@ -44,24 +44,24 @@ troll(){
     echo "         |  D   |    \ "
     sleep 0.03
     echo "         |      |      \ "
-    sleep 0.03
+    sleep 0.03 
     echo "         |  M   |        \ "
     sleep 0.03
-    echo "         |  R   |           \ "
+    echo "         |  R   |          \ "
     sleep 0.03
-    echo "         |  R   |              \ "
+    echo "         |  R   |            \ "
+    sleep 0.03
+    echo "         |      |              \ "
     sleep 0.03
     echo "         |      |                \ "
     sleep 0.03
-    echo "         |      |                   \ "
+    echo "         |      |                  \ "
     sleep 0.03
-    echo "         |      |                     \ "
+    echo "         |      |                   | "
     sleep 0.03
-    echo "         |      |                      | "
+    echo "        ''''''''''                  | "
     sleep 0.03
-    echo "        ''''''''''                     | "
-    sleep 0.03
-     echo "        ' ' ' ' _____________________| "
+     echo "        ' ' ' ' ___________________| "
     sleep 0.03
     echo " ============================="
     sleep 2
