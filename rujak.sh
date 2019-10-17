@@ -172,7 +172,7 @@ spam(){
                   echo " Gunakan tools dengan bijak"
                   echo
                   echo " Love u always "
-                  echo " -zLucifer"
+                  echo " Jackekids~"
                   echo "========================================"
             else
                   echo Kesalahan, silahkan coba lagi
