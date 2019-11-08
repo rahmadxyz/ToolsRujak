@@ -195,7 +195,7 @@ echo "Loading.."
 load
 clear
 troll
-echo Selamat datang kak, Siapa nick kaka? #tulisan keluar
+echo Selamat datang, Silahkan isi nickname kalian. #tulisan keluar
 read nick #membaca yang ditulis
 clear
 troll
